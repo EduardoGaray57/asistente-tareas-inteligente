@@ -112,7 +112,7 @@ scikit-learn
 - **Eduardo Garay**  
   - 📍 Quilicura, Región Metropolitana, Chile  
   - [GitHub](https://github.com/EduardoGaray57)  
-  - [LinkedIn](https://www.linkedin.com/in/eduardo-garay-9b067b16)  
+  - [LinkedIn](https://www.linkedin.com/in/eduardo-garay-9b067b16b)  
 
 ---
 
