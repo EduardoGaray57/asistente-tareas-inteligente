@@ -1,6 +1,12 @@
 # 🧑‍💻 Asistente Personal de Tareas Inteligente
 
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)
+
 Un asistente de escritorio escrito en **Python** que combina **automatización + IA ligera** para ayudarte a organizar tu día, gestionar tareas y analizar tu productividad.
+
 
 ## ✨ Características
 
