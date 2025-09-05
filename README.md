@@ -75,6 +75,7 @@ El asistente utiliza un modelo de **Naive Bayes** entrenado con tu historial par
 
 ## 📂 Estructura del proyecto
 
+```
 asistente-tareas-inteligente/
 │── main.py              # Código principal
 │── historial_tareas.db  # Base de datos SQLite (se genera automáticamente)
@@ -83,6 +84,7 @@ asistente-tareas-inteligente/
 │── LICENSE              # Licencia MIT
 │── .gitignore           # Archivos a ignorar en Git
 
+```
 
 ---
 
